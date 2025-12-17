@@ -12,13 +12,13 @@ This document describes the high-level block diagram of the system and how the m
 
 ## 2. Power Flow Overview
 
-![Power Flow Diagram](images/power_flow.png)
+![Power Flow Diagram](images/power_flow.jpg)
 
 ---
 
 ## 3. Communication Flow Overview
 
-![Communication Flow Diagram](images/communication_flow.png)
+![Communication Flow Diagram](images/communication_flow.jpg)
 
 ---
 
