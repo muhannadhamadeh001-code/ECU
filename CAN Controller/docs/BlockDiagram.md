@@ -10,21 +10,9 @@ This document describes the high-level block diagram of the system and how the m
 
 ---
 
-## 2. Power Flow Overview
+## 2. Block Descriptions
 
-![Power Flow Diagram](images/power_flow.jpg)
-
----
-
-## 3. Communication Flow Overview
-
-![Communication Flow Diagram](images/communication_flow.jpg)
-
----
-
-## 4. Block Descriptions
-
-### 4.1 Power Input and Regulation
+### 2.1 Power Input and Regulation
 
 - 12V automotive input enters the system
 - Input protection handles transients and reverse polarity
@@ -34,7 +22,7 @@ This document describes the high-level block diagram of the system and how the m
 
 ---
 
-### 4.2 ESP32 Microcontroller
+### 2.2 ESP32 Microcontroller
 
 The ESP32 is the central controller responsible for:
 - Running firmware
@@ -44,7 +32,7 @@ The ESP32 is the central controller responsible for:
 
 ---
 
-### 4.3 USB Communication Path
+### 2.3 USB Communication Path
 
 - USB-C connector interfaces with the PC
 - USB-UART bridge converts USB protocol to UART
@@ -53,7 +41,7 @@ The ESP32 is the central controller responsible for:
 
 ---
 
-### 4.4 CAN Communication Path
+### 2.4 CAN Communication Path
 
 - ESP32 communicates via CAN TX/RX logic signals
 - CAN transceiver converts logic signals to CANH/CANL
@@ -62,7 +50,7 @@ The ESP32 is the central controller responsible for:
 
 ---
 
-## 5. Communication Directionality
+## 3. Communication Directionality
 
 All communication paths are bidirectional:
 
@@ -73,7 +61,7 @@ This enables real-time diagnostics, control, and data logging.
 
 ---
 
-## 6. Design Intent
+## 4. Design Intent
 
 The block diagram reflects a production-style ECU architecture with:
 - Isolated physical layers
