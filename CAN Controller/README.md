@@ -1,7 +1,7 @@
 # ESP32 Automotive CAN Controller
 
-This project is a custom-designed automotive CAN controller based on the ESP32.
-It is intended as a learning-focused yet production-oriented hardware platform
+This project is a custom designed automotive CAN controller based on the ESP32.
+It is intended as a way to learn hardware platform
 covering automotive power design, communication buses, and firmware development.
 
 ## Key Features
@@ -19,5 +19,3 @@ Detailed design documentation is available in the `/docs` directory:
 - Communication interfaces
 - Firmware concepts
 - Protection mechanisms
-
-This repository focuses on **engineering correctness**, not hobby-level shortcuts.
