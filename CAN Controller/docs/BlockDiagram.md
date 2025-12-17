@@ -6,7 +6,7 @@ This document describes the high-level block diagram of the system and how the m
 
 ## 1. High-Level Block Diagram
 
-![System Block Diagram](images/block_diagram.png)
+![System Block Diagram](images/block_diagram.jpg)
 
 ---
 
