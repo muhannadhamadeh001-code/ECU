@@ -68,7 +68,7 @@ Continuous ground reference is maintained under all high-speed signals.
 
 ## 6. Automotive Usage Disclaimer
 
-⚠ **Important Notice**
+**Important Notice**
 
 This board is:
 - Not automotive-qualified (AEC-Q100)
