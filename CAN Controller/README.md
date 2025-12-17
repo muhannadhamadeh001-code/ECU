@@ -19,3 +19,8 @@ Detailed design documentation is available in the `/docs` directory:
 - Communication interfaces
 - Firmware concepts
 - Protection mechanisms
+
+## Project Status
+This repository documents Version 1 (V1) of the hardware design.
+The design is complete but has not yet been manufactured or tested.
+Future revisions will be documented separately.
