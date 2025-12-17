@@ -1,0 +1,15 @@
+# ESP32 CAN Controller Board
+
+This directory contains the design of a 4-layer ESP32-based controller board
+designed for automotive and embedded applications.
+
+The board integrates:
+- CAN bus communication
+- Automotive 12V power input
+- Buck power conversion
+- USB-C programming and debugging
+- ESD and surge protection
+- RF-aware layout for Wi-Fi and Bluetooth
+
+The project is designed following real hardware design practices
+with emphasis on signal integrity, EMI reduction, and reliability.
