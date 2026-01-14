@@ -75,7 +75,7 @@ This board is designed as an **educational but system-accurate ECU output stage*
 
 - ✅ Schematic complete
 - ✅ PCB routed with power integrity considerations (12V bus, PGND pour, star ground tie)
-- ⏳ Hardware bring-up/testing: not yet performed
+- Hardware bring-up/testing: not yet performed
 
 ---
 
@@ -83,4 +83,4 @@ This board is designed as an **educational but system-accurate ECU output stage*
 
 - `hardware/` — schematic PDF + PCB renders
 - `manufacturing/` — Gerbers, BOM, CPL
-- `docs/` — design notes and manufacturing notes
+- `docs/` — design notes
