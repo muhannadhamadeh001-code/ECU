@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\V2.5_IMU\Project Outputs for V2.5_IMU\Pick Place\Pick Place for V2.5_IMU.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/01/26
+Time:       23:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","IMU","TopLayer","PQFN50P250X300X86-14N","219.859","457.316","180","Accelerometer, Gyroscope, 6 Axis Sensor I2C, SPI Output"
+"R2","22O","TopLayer","RESC1005X37N","355.000","425.000","0","22 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+"R1","10k? 0603","TopLayer","RESC1508X55N","54.859","457.316","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"J1","10 Pin Header","TopLayer","CONN_2PH1-10-UA-SMT-B_ADM-L","845.000","445.000","270","Connector Header Surface Mount 10 position 0.079" (2.00mm)"
+"FB1","600O@100MHz","TopLayer","FP-MPZ1608-0_8-IPC_B","535.000","805.000","0","600 Ohms @ 100 MHz 1 Ferrite Bead 0603 (1608 Metric) 500mA 380mOhm"
+"C5","100nF, 50V","TopLayer","CAPC1005X65N","715.000","787.795","90","CAP CER 0.1UF 50V X7R 0402"
+"C4","10uF, 10V","TopLayer","CAPC1005X65N","660.000","787.795","90","10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
+"C3","10uF, 10V","TopLayer","CAPC1005X65N","119.859","417.316","90","10 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)"
+"C2","100nF, 50V","TopLayer","CAPC1005X65N","119.859","507.316","270","CAP CER 0.1UF 50V X7R 0402"
+"C1","100nF, 50V","TopLayer","CAPC1005X65N","254.859","547.316","180","CAP CER 0.1UF 50V X7R 0402"
