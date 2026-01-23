@@ -1,7 +1,7 @@
 
 ---
 
-# ARCHITECTURE.md
+## ARCHITECTURE.md
 
 # ECU V5 — Architecture Overview
 
