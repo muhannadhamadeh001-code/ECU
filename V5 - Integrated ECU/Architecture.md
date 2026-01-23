@@ -1,9 +1,8 @@
 
 ---
 
-## 📄 `ARCHITECTURE.md`
+# ARCHITECTURE.md
 
-```md
 # ECU V5 — Architecture Overview
 
 ## System Overview
